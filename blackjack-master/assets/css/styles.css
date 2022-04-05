@@ -1,0 +1,29 @@
+body {
+    background-color: #2F4F30;
+    color: #ffffff
+}
+
+.container .row {
+    margin-bottom: 50px;
+}
+
+.cards-board {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards-container {
+    min-height: 235px;
+}
+
+.toolbar {
+    margin: 20px 0;
+    text-align: center;
+}
+
+img.gcard {
+    height: 230px;
+    position: relative;
+    left: 75px;
+    margin-left: -75px;
+}
